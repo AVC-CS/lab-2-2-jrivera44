@@ -8,7 +8,7 @@ def main():
     regular_rate = 18.25
     overtime_rate = 27.78
     regular_hours = 40
-    overtime_hours = ho  urs - regular_hours
+    overtime_hours = hours - regular_hours
     
     regular_wage = overtime_rate * overtime_hours
     total_wage = regular_wage + overtime_wage

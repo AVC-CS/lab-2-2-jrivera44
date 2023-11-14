@@ -5,7 +5,13 @@ def main():
     ov_rate = 27.78
 
    ##################################################
-   # Code your program here
+    regular_rate = 18.25
+    overtime_rate = 27.78
+    regular_hours = 40
+    overtime_hours = ho  urs - regular_hours
+    
+    regular_wage = overtime_rate * overtime_hours
+    total_wage = regular_wage + overtime_wage
    ##################################################
     # overtime = workhours - reg_hours
     # overtime_wage = overtime * ov_rate

@@ -12,6 +12,7 @@ def main():
     
     regular_wage = overtime_rate * overtime_hours
     total_wage = regular_wage + overtime_wage
+    overtimewage = 50
    ##################################################
     # overtime = workhours - reg_hours
     # overtime_wage = overtime * ov_rate
